@@ -159,14 +159,3 @@ docker run -p 8000:8000 student-performance-api
 
 The API is then available at `http://localhost:8000/docs`, same as running locally.
 
-## Skills Demonstrated
-
-**Machine Learning:** data preprocessing, classification, logistic regression, model evaluation, model serialization (joblib)
-
-**Backend Development:** FastAPI, REST API design, request validation with Pydantic, JSON responses, auto-generated OpenAPI/Swagger docs
-
-**DevOps:** Docker, dependency management, reproducible environments
-
-## License
-
-MIT — free to use for learning, portfolio, or as a starting point for your own projects.
