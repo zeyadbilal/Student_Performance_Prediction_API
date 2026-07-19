@@ -1,0 +1,4 @@
+node_modules/
+.env
+.understand-anything/
+/student-performance-api/app/__pycache__
