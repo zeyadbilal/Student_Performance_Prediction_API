@@ -2,7 +2,7 @@ const modelService = require('../services/modelService');
 
 exports.predict = async (req, res) => {
   try {
-    const {result} = await modelService.predict(req.body);
+    const result = await modelService.predict(req.body);
 
     res.json({
       user: req.user.email,
